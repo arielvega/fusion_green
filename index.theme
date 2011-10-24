@@ -1,0 +1,15 @@
+
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=fusion_green
+Comment=Uremix's official theme
+Encoding=UTF-8
+
+Name[es_BO]=fusion_green
+
+[X-GNOME-Metatheme]
+GtkTheme=fusion_green
+MetacityTheme=fusion_green
+IconTheme=Faenza
+CursorTheme=default
+ButtonLayout=menu:minimize,maximize,close
